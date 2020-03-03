@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="05954413-4a3e-4ac9-8f82-0e4c8c53a57f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangobssserver/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangobssserver/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,17 +76,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\python\bssapp\djangobssserver" />
+      <recent name="F:\python\bssapp\djangobssserver\useraccount\api\Amount" />
+      <recent name="F:\python\bssapp\djangobssserver\useraccount\api" />
+      <recent name="F:\python\bssapp\djangobssserver\useraccount" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\python\bssapp\djangobssserver\useraccount\api\user" />
       <recent name="F:\python\bssapp\djangobssserver\useraccount\templates\main" />
       <recent name="F:\python\bssapp\djangobssserver\useraccount" />
       <recent name="F:\python\bssapp\djangobssserver\templates" />
       <recent name="F:\python\bssapp\djangobssserver\useraccount\api" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\python\bssapp\djangobssserver\useraccount\api\Amount" />
-      <recent name="F:\python\bssapp\djangobssserver\useraccount\api" />
-      <recent name="F:\python\bssapp\djangobssserver\useraccount" />
     </key>
   </component>
   <component name="RunManager">
@@ -131,7 +133,7 @@
       <workItem from="1583058184391" duration="8227000" />
       <workItem from="1583122711511" duration="826000" />
       <workItem from="1583151376074" duration="5595000" />
-      <workItem from="1583209578983" duration="3500000" />
+      <workItem from="1583209578983" duration="4347000" />
     </task>
     <servers />
   </component>
